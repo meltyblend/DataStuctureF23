@@ -1,3 +1,17 @@
+/*Objective:  Create an array of numbers based upon user input.
+
+Program logic:
+Ask the user for how big to size the array.
+Create an array based upon that size.
+Ask for a number, add that number to the array.
+Repeat adding to the end until all numbers have been entered or until they enter -1 for the number.
+Print the list.
+*Note, the new keyword is expected.
+
+
+NOTE I DIDNT READ THE *NOTE AT THE BOTTOM AND GOT THE WRONG ANSWER ON THIS PROMPT LOL SOWWY.
+*/
+
 #include <iostream>
 
 using namespace std;
